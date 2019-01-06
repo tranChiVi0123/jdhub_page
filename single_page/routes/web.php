@@ -12,8 +12,8 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('maintain');
 });
 Route::get('/demo',function (){
-    return  view('down.maintain');
+    return  view('welcome');
 });
