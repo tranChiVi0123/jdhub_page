@@ -226,8 +226,8 @@
 					<div class="container">
 						<div class="row center">
 							<div class="col-md-12">
-								<h2>Sơ lược về JDHUB</h2>
-								<p class="custom-section-sub-title">WHAT WE ARE</p>
+								<h2>JDHUB</h2>
+								<p class="custom-section-sub-title">Japan & Danang Hub</p>
 							</div>
 						</div>
 						<div class="row">
@@ -253,6 +253,43 @@
 					</div>
 				</section>
 
+<section class="section parallax section-parallax section-no-border custom-z-index m-none" data-plugin-parallax data-plugin-options="{'speed': 1.5}" data-image-src="img/demos/one-page-agency/parallax/parallax-1.jpg">
+					<div class="container">
+						<div class="row">
+							<div class="counters custom-counters">
+								<div class="col-md-3 col-sm-6">
+									<div class="counter">
+										<i class="fa fa-users text-color-secondary"></i>
+										<strong class="text-color-light" data-to="250" data-append="+">0</strong>
+		   								<label>HỌC VIÊN HÀI LÒNG</label>
+		   							</div>
+								</div>
+								<div class="col-md-3 col-sm-6">
+									<div class="counter">
+										<i class="fa fa-tv text-color-secondary"></i>
+										<strong class="text-color-light" data-to="20" data-append="+">0</strong>
+		   								<label>KỸ SƯ SANG NHẬT</label>
+		   							</div>
+								</div>
+								<div class="col-md-3 col-sm-6">
+									<div class="counter">
+										<i class="fa fa-support text-color-secondary"></i>
+										<strong class="text-color-light" data-to="35" data-append="+">0</strong>
+		   								<label>DU HỌC SINH SANG NHẬT</label>
+		   							</div>
+								</div>
+								<div class="col-md-3 col-sm-6">
+									<div class="counter">
+										<i class="fa fa-clock-o text-color-secondary"></i>
+										<strong class="text-color-light" data-to="3000" data-append="+">0</strong>
+		   								<label>GIỜ ĐÀO TẠO</label>
+		   							</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</section>
+
 				<section id="what-we-do" class="section section-no-border background-color-light m-none pb-none">
 					<div class="container custom-pos-rel">
 						<svg id="curved-line-2" class="hidden-xs hidden-sm" x="0px" y="0px" width="132px" height="225px" viewBox="0 0 132 225" enable-background="new 0 0 132 225" xml:space="preserve">
@@ -263,46 +300,54 @@
 						</svg>
 						<div class="row center">
 							<div class="col-md-12">
-								<h2>Dịch Vụ</h2>
-								<p class="custom-section-sub-title">Working in Japanese</p>
+								<h2>Dịch vụ</h2>
+								<p class="custom-section-sub-title">Đem lại giá trị cao nhất với chi phí hợp lý nhất</p>
 							</div>
 						</div>
 						<div class="row">
 							<div class="col-md-6 match-height">
 								<div class="feature-box feature-box-style-2 custom-feature-box-style-1">
 	 								<div class="feature-box-icon">
-	  									<i class="fa fa-object-group text-color-secondary"></i>
+	  									<i class="fa fa-university text-color-secondary"></i>
 	  								</div>
 	 								<div class="feature-box-info">
 	  									<h4 class="mb-none">GIÁO DỤC</h4>
-	  									<p class="tall">Trung tâm Nhật ngữ Cosmos Đà Nẵng - Là sự kết hợp giữa công ty JDHUB và Trung tâm Nhật ngữ Cosmos Hà Nội. Với phương pháp dạy mới lạ, hiện đại và giáo trình được biên soạn công phu của Cosmos Hà Nội, kết hợp cùng sự tư vấn và hỗ trợ của Tiến sĩ -  Ngô Quang Vinh (hiện đang là Trưởng khoa Thái – Nhật – Hàn của trường Đại Học Ngoại ngữ Đà Nẵng), Cosmos Đà Nẵng tự tin đem đến cho học viên một môi trường đào tạo tiếng Nhật chuyên nghiệp, chất lượng, một sân chơi giao lưu bổ ích, thú vị cho các bạn yêu thích văn hóa xứ sở Hoa Anh Đào.</p>
+	  									<p class="tall"><strong class="font-weight-semibold text-color-dark">Trung tâm Nhật ngữ Cosmos Đà Nẵng</strong><br>
+	  									 Với phương pháp dạy mới lạ, hiện đại và giáo trình được biên soạn công phu của sensei Dung Cosmos - Cosmos Hà Nội,
+	  									  kết hợp cùng sự tư vấn và hỗ trợ của cố vấn đầu ngành đào tạo tiếng Nhật tại Đà Nẵng,
+	  									  Cosmos Đà Nẵng tự tin đem đến cho học viên một môi trường đào tạo tiếng Nhật chuyên nghiệp, chất lượng, thực dụng.</p>
 	  								</div>
 	 							</div>
 	 							<div class="feature-box feature-box-style-2 custom-feature-box-style-1">
 	 								<div class="feature-box-icon">
-	  									<i class="fa fa-mobile-phone text-color-secondary _size-1"></i>
+	  									<i class="fas fa-plane-departure text-color-secondary _size-1"></i>
 	  								</div>
 	 								<div class="feature-box-info">
 	  									<h4 class="mb-none">TƯ VẤN DU HỌC</h4>
 	  									<p class="tall">
 										  <strong class="font-weight-semibold text-color-dark">“Chúng tôi sẽ đưa ra giải pháp du học toàn diện tới khách hàng.”</strong>
-										    Cùng với Cosmos, chúng tôi tự tin cung ứng cho khách hàng các dịch vụ:  Tư vấn miễn phí chọn trường, làm hồ sơ; Cung cấp khóa học chất lượng để bạn tự tin thi đỗ năng lực tiếng Nhật, Cung cấp các giải pháp giúp bạn trả lời phỏng vấn thành công với Trường bên Nhật, Hỗ trợ bạn ngay cả khi bạn sang Nhật học tập và làm việc.</p>
+										    <br>Tư vấn miễn phí chọn trường, làm hồ sơ; 
+										    Cung cấp khóa học chất lượng để bạn tự tin thi đỗ năng lực tiếng Nhật;
+										    Cung cấp học viên nền tảng vững chắc về kỹ năng phỏng vấn; 
+										    Hỗ trợ bạn ngay cả khi bạn sang Nhật học tập và làm việc.</p>
 	  								</div>
 	 							</div>
 	 							<div class="feature-box feature-box-style-2 custom-feature-box-style-1">
 	 								<div class="feature-box-icon">
-	  									<i class="fa fa-code text-color-secondary"></i>
+	  									<i class="fa fa-users text-color-secondary"></i>
 	  								</div>
 	 								<div class="feature-box-info">
-	  									<h4 class="mb-none">Nhân Sự</h4>
-	  									<p class="tall">Kinh nghiệm làm việc lâu năm tại Nhật Bản và sự hỗ trợ của các chuyên gia người Nhật trong lĩnh vực nhân sự, IT đã giúp JDHUB xây dựng được mối quan hệ tin tưởng với nhiều doanh nghiệp trên khắp Nhật Bản. Trên nền tảng đó JDHUB hướng tới mục tiêu là cầu nối kết nối các bạn trẻ Việt Nam với các doanh nghiệp đối tác ở Đà Nẵng cũng như ở Nhật, nhằm đem lại cho các bạn cơ hội nghề nghiệp, cơ hội phát triển trong tương lai, đồng thời giới thiệu được nhiều nhân sự phù hợp và ưu tú cho đối tác.</p>
+	  									<h4 class="mb-none">TẠO NGUỒN - TƯ VẤN VIỆC LÀM NHẬT BẢN</h4>
+	  									<p class="tall">Với kinh nghiệm làm việc lâu năm tại Nhật Bản và 
+	  										sự hỗ trợ của các chuyên gia người Nhật trong đa lĩnh vực đã giúp JDHUB 
+	  										xây dựng được các mối quan hệ tin tưởng, sáu rộng với nhiều doanh nghiệp trên khắp Nhật Bản.
+	  										</p>
 	  								</div>
 	 							</div>
 	 							<a class="btn custom-btn-style-1 custom-margin-1 text-color-dark" href="https://docs.google.com/forms/d/e/1FAIpQLSdSBPzV_OaaMRbquPGlv_3aQFAPlc2o5Vas8JdK4fcEp0C3Yg/viewform?fbclid=IwAR3UljCYKQespOh8XkSclak0vUu9LtrJkrdrX2rAp6L9-FxY1bJFW0DMJEo" data-hash>CONTACT US</a>
 							</div>
 							<div class="col-md-6 match-height">
-								<img src="img/demos/one-page-agency/what-we-do/what-we-do-2.jpg" alt class="custom-image-style-2 _big" data-appear-animation="fadeIn" data-appear-animation-delay="1500" data-appear-animation-duration="100" />
-								<img src="img/demos/one-page-agency/what-we-do/what-we-do-1.jpg" alt class="custom-image-style-2 _small" data-appear-animation="fadeInUp" data-appear-animation-delay="1900" data-appear-animation-duration="100" data-plugin-options="{'accY': 100}" />
+								<img src="img/jdhub/business.jpg" alt class="custom-image-style-2 _big" data-appear-animation="fadeIn" data-appear-animation-delay="1500" data-appear-animation-duration="100" />
 							</div>
 						</div>
 					</div>
@@ -384,8 +429,8 @@
 					<div class="container">
 						<div class="row center">
 							<div class="col-md-12">
-								<h2>Thành Viên</h2>
-								<p class="custom-section-sub-title">THE DREAM TEAM</p>
+								<h2>ĐỘI NGŨ JDHUB</h2>
+<!-- 								<p class="custom-section-sub-title">THE FAMILY</p> -->
 							</div>
 						</div>
 						<div class="row">
@@ -663,8 +708,8 @@
 					<div class="container">
 						<div class="row center">
 							<div class="col-md-12">
-								<h2>Thông tin về JDHUB</h2>
-								<p class="custom-section-sub-title"> Japan and DaNang Hub </p>
+								<h2>Thông tin tuyển sinh - tuyển dụng kỹ sư</h2>
+								<p class="custom-section-sub-title"> Học tiếng Nhật/ Tuyển sinh du học/ Việc làm kỹ sư </p>
 							</div>
 						</div>
 						<div class="row">
@@ -674,7 +719,7 @@
 										<article class="thumb-info custom-thumb-info-style-2">
 											<span class="thumb-info-wrapper m-none">
 												<a href="#" class="text-decoration-none" title="Innovation is the key">
-													<img src="img/demos/one-page-agency/blog/blog-1.jpg" class="img-responsive" alt="">
+													<img src="img/jdhub/class.jpg" class="img-responsive" alt="">
 												</a>
 											</span>
 											<span class="thumb-info-caption background-color-light p-md">
@@ -682,10 +727,13 @@
 												<p class="custom-thumb-info-category">...</p>
 												<h4 class="mb-sm">
 													<a href="#" class="text-decoration-none text-color-dark">
-														...
+														TUYỂN SINH LỚP TIẾNG NHẬT
 													</a>
 												</h4>
-												<p>...</p>
+												<p>
+													Các lớp: N5-N4-N3, giao tiếp, tiếng Nhật IT...
+													Ưu đãi: giảm 20% học phí đăng kí trong tháng 3/2019
+												</p>
 											</span>
 										</article>
 									</div>
@@ -693,7 +741,7 @@
 										<article class="thumb-info custom-thumb-info-style-2">
 											<span class="thumb-info-wrapper m-none">
 												<a href="#" class="text-decoration-none" title="Creative moments">
-													<img src="img/demos/one-page-agency/blog/cosmos.jpg" class="img-responsive" alt="">
+													<img src="img/jdhub/study.jpg" class="img-responsive" alt="">
 												</a>
 											</span>
 											<span class="thumb-info-caption background-color-light p-md">
@@ -701,12 +749,12 @@
 												<p class="custom-thumb-info-category">Pháp Lý</p>
 												<h4 class="mb-sm">
 													<a href="#" class="text-decoration-none text-color-dark">
-														Tên Công Ty: JDHUB
+														TUYỂN SINH DU HỌC SINH
 													</a>
 												</h4>
-												<p>Mã số ĐKKD: 0401905038
-												Giấy phép: ….
-												Đại diện pháp luật: Đào Trọng Hiếu – Giám đốc điều hành
+												<p>Khóa học: 10/2019
+												Số lượng: 10
+												Ưu đãi: Cho vay 1 năm học phí, cơ hội làm thêm nhiều...
 												</p>
 											</span>
 										</article>
@@ -715,7 +763,7 @@
 										<article class="thumb-info custom-thumb-info-style-2">
 											<span class="thumb-info-wrapper m-none">
 												<a href="#" class="text-decoration-none" title="Back in Business">
-													<img src="img/demos/one-page-agency/blog/blog-3.jpg" class="img-responsive" alt="">
+													<img src="img/jdhub/engineer.jpg" class="img-responsive" alt="">
 												</a>
 											</span>
 											<span class="thumb-info-caption background-color-light p-md">
@@ -723,17 +771,20 @@
 												<p class="custom-thumb-info-category">...</p>
 												<h4 class="mb-sm">
 													<a href="#" class="text-decoration-none text-color-dark">
-														...
+														TUYỂN KỸ  SƯ ĐI NHẬT
 													</a>
 												</h4>
-												<p>...</p>
+												<p>Các ngành: hóa, công nghệ thực phẩm, thiết kế, IT.
+													Số lượng: 30 vị trí (cả nam nữ).
+													Điều kiện: tốt nghiệp đại học các ngành tương ứng.
+													Đặc biệt: chi phí đi cực kì hợp lý.</p>
 											</span>
 										</article>
 									</div>
 									
 								</div>
 							</div>
-						</div>
+						</div>          
 					</div>
 				</section>
 
@@ -765,12 +816,10 @@
 									</div>
 									<div class="feature-box-info">
 										<h6 class="mb-none text-sm">Trụ Sở Chính</h6>
-										<p class="tall text-color-light">243/95 Trường Chinh, An Khê, Thank Khê, Đà Nẵng</p>
-										<h6 class="mb-none text-sm">Địa chỉ</h6>
-										<p class="tall text-color-light">82 Ninh Tốn,Hòa Khánh Bắc,Liên Chiểu,Đà Nẵng 550000</p>
+										<p class="tall text-color-light">82 Ninh Tốn, Hòa Khánh Bắc, Liên Chiểu, Đà Nẵng</p>
 									</div>
 								</div>
-								<h5 class="text-color-light">SEND A MESSAGE</h5>
+								<h5 class="text-color-light">GỬI TIN NHẮN</h5>
 								<form id="contactForm" class="custom-contact-form-style-1" action="php/contact-form.php" method="POST">
 									<div class="alert alert-success hidden mt-lg" id="contactSuccess">
 										<strong>Success!</strong> Your message has been sent to us.
@@ -783,30 +832,30 @@
 									<div class="row">
 										<div class="form-group _divider">
 											<div class="col-md-6 col-sm-6">
-												<input type="text" value=""  maxlength="100" class="form-control" name="name" id="name" placeholder="YOUR NAME" required>
+												<input type="text" value=""  maxlength="100" class="form-control" name="name" id="name" placeholder="TÊN" required>
 											</div>
 											<div class="col-md-6 col-sm-6">
-												<input type="text" value="" maxlength="100" class="form-control" name="phone" id="phone" placeholder="PHONE" required>
+												<input type="text" value="" maxlength="100" class="form-control" name="phone" id="phone" placeholder="SỐ ĐIỆN THOẠI" required>
 											</div>
 										</div>
 									</div>
 									<div class="row">
 										<div class="form-group">
 											<div class="col-md-12">
-												<input type="email" value="" maxlength="100" class="form-control" name="email" id="email" placeholder="EMAIL ADDRESS" required>
+												<input type="email" value="" maxlength="100" class="form-control" name="email" id="email" placeholder="EMAIL" required>
 											</div>
 										</div>
 									</div>
 									<div class="row">
 										<div class="form-group">
 											<div class="col-md-12">
-												<textarea maxlength="5000" rows="7" class="form-control" name="message" id="message" placeholder="COMMENT" required></textarea>
+												<textarea maxlength="5000" rows="7" class="form-control" name="message" id="message" placeholder="NỘI DUNG TIN NHẮN" required></textarea>
 											</div>
 										</div>
 									</div>
 									<div class="row">
 										<div class="col-md-12">
-											<input type="submit" value="SUBMIT" class="btn btn-primary custom-btn-style-2 text-color-light custom-margin-2 pull-right" data-loading-text="Loading...">
+											<input type="submit" value="GỬI" class="btn btn-primary custom-btn-style-2 text-color-light custom-margin-2 pull-right" data-loading-text="Loading...">
 										</div>
 									</div>
 								</form>
