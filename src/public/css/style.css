@@ -1,0 +1,254 @@
+*{
+	margin: 0;
+	padding: 0;
+    box-sizing: border-box;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+   
+}
+.card {
+    position: relative;
+    margin-bottom: 2rem;
+    transition: transform .25s ease,box-shadow .3s ease;
+    background-color: rgba(79, 32, 32, 0.38);
+}
+
+.card:hover{
+    transform: translateY(-2px);
+}
+.card-img-overlay span {
+    position: absolute;
+    width: 100%;
+    top: 37%;
+    left: 0px;
+    color: white;
+    text-align: center;
+    font-size: 15px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+a.card-img-overlay span i {
+    display: block;
+}
+a.card-img-overlay span span {
+    position: absolute;
+    top: 24px;
+    left: -38px;
+}
+
+ .inside a span i{
+	display: block;
+	font-size: 5px;
+}
+.container.main-content {
+    border-bottom: 1px solid #170e0d;
+    padding: 0;
+}
+.row.category-content {
+    padding: 0 5rem;
+}
+.headingp2 {
+    text-align: center;
+    margin-top: 14px;
+    width: 100%;
+    margin-bottom: 3rem;
+}
+.headingp2 span {
+    font-size: 15px;
+}
+.headingp2 h1 {
+    font-family: verdana;
+    font-size: 28px;
+    color: #192026;
+}
+.main-content-course {
+    margin-top: 2rem;
+}
+
+
+.card.card-course {
+    background-color: #fff;
+    padding: 2px;
+}
+
+.card.card-course a {
+    color: #000;
+    font-size: 16px;
+}
+.title h2{
+    font-family: verdana;
+    font-size: 28px;
+    color: #192026;
+}
+.text-center.title span {
+    font-size: 14px;
+}
+.badge {
+    width: 62px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    padding : 5px 10px;
+    margin-top: 10px;
+    font-size: 13px;
+    font-style: normal;
+    text-transform: uppercase;
+}
+.card-body {
+    border-bottom: 1px solid #f4f2f2;
+}
+
+.rating-star i {
+    color: #afb074;
+}
+.card.card-course:hover {box-shadow: 0 5px 5px rgba(0, 0, 0, 0.3);}
+.card-body a:hover {
+    text-decoration: none;
+    color: #3188f2;
+}
+.human-logo {
+    display: inline-block;
+    position: relative;
+    float: right;
+    top: 0.5rem;
+    margin-right: 1rem;
+}
+.card.card-courses {
+    max-height: 15rem;
+}
+.human-logo span {
+    font-size: 13px;
+    position: absolute;
+    top: -5px;
+    left: 16px;
+    font-weight: 300;
+}
+.most-course{
+    background-color: rgba(205, 205, 205, 0.2784313725490196);
+}
+/* giang vieen */
+.card.card-courses {
+    background: #fff;
+}
+.img-courses {
+        position: absolute;
+    width: 5rem;
+    height: 5rem;
+    top: -3rem;
+    left: 4rem;
+}
+.img-courses img{
+   
+    width: 100%;
+    height: 100%;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    padding: 3px;
+}
+.img-courses img:hover{
+    border: 2px solid rgba(100, 95, 95, 0.8196078431372549);
+}
+.card-body.card-body-content-sourses {
+    padding-top: 3.5rem;
+    text-align: center;
+}
+.headingp2.courses {
+    margin-bottom: 7rem;
+}
+/* het phan main */
+footer .container-fluid{
+    background-color: #333333;
+}
+.canvas{
+    margin-bottom: 5rem;
+    margin-top : 1.5rem;
+
+}
+.canvas.canvas-images {
+    background: url(../images/world-map.png) no-repeat center 3rem;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.canvas h1 {
+    font-size: 2.4rem;
+    color: #e9e7e7;
+}
+.canvas div {
+    color: #d3d1d1;
+    font-size: 8px;
+
+}
+
+.canvas p {
+    color: #686865;
+    font-size: 13px;
+}
+.canvas span {
+    color: #a3a2a2;
+}
+.canvas a{
+    text-decoration: none;
+}
+.canvas span:hover {
+    cursor: pointer;
+    color: #fff;
+    transition: .5s;
+}
+.canvas span i {
+    margin-right: 8px;
+}
+.canvas h3 {
+    color: #e5e5e5;
+    font-size: 20px;
+    padding-top: 13px;
+}
+
+.infomation-courses-footer {
+    padding-bottom: 17px;
+}
+
+.infomation-courses-footer h6 {
+    font-size: 13px;
+    color: #a9a9a9;
+    margin-bottom: 2px;
+}
+.text-courses{
+    color: #e3e3e3 !important;
+}
+.text-support{color:#cdcdcd;}
+.infomation-courses-footer.support {
+    padding: 3px;
+}
+.canvas.canvas-map{
+    width: 100%;
+    height:100%;
+    margin-bottom: 0;
+    background: url(../images/map.png) no-repeat center 3rem;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.row.category-content .container {
+    padding: 0;
+}
+.container-fluid.footer-contact-link {
+    background-color: #292929;
+}
+.content-coppy {
+    color: #a3a3a3;
+    font-size: 12px;
+}
+.content-coppy.bot-tn {
+    margin-bottom: 2rem;
+}
+.content-coppy.bot-tn span{
+    border-bottom: 1px dotted #cdcdcd;
+}
+.container-fluid.footer-contact-link {
+    padding-top: 7px;
+}
+.content-coppy.bot-tn a {
+    color: #a3a3a3;
+}
+.content-coppy.bot-tn a:hover{
+    text-decoration: none;
+    color: #cecece;
+}
